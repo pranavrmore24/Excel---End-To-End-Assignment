@@ -24,14 +24,12 @@ This project demonstrates the use of Microsoft Excel for data analysis, reportin
 
 ## Process
 
-1. Imported and organized the dataset.
-2. Cleaned and validated the data.
-3. Applied basic and advanced Excel formulas.
-4. Performed calculations using arithmetic, logical, text, and lookup functions.
-5. Created summary tables and pivot tables.
-6. Consolidated monthly sales data into a single report.
-7. Built charts and visualizations for better understanding.
-8. Generated insights based on the analyzed data.
+1. Applied basic and advanced Excel formulas.
+2. Performed calculations using arithmetic, logical, text, and lookup functions.
+3. Created summary tables and pivot tables.
+4. Consolidated monthly sales data into a single report.
+5. Built charts and visualizations for better understanding.
+6. Generated insights based on the analyzed data.
 
 ## Key Insights
 
